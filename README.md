@@ -17,7 +17,7 @@
 </p>
 
 - 🧰 Trabajando dura en **KronelGuard** un Bot de Discord.
-- 👨‍💻 Todos mis proyectos publicos están disponibles en **[Repositories]([https://github.com/ibrockdev?tab=repositories](https://github.com/soybrockdev?tab=repositories))**,
+- 👨‍💻 Todos mis proyectos publicos están disponibles en **[Repositories](https://github.com/soybrockdev?tab=repositories)**,
 - 📦 Owner of **[Sector X](https://discord.gg/kaamnUFMBA)**.
 
 ---
